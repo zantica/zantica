@@ -1,4 +1,4 @@
-- <h1>Hey its me @zantica</h1>
+- <h1>Hey its me zantica</h1>
 - I am going to be a fullstack dev. 
 - 👋 Hi, I’m @zantica
 - 👀 I’m interested in learn HTML, CSS and JV i think Python too
