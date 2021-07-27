@@ -4,9 +4,9 @@
 - 📫 How to reach me santicarrizo@live.com.ar
 
 <h2> Skills </h2>
-- HTML
-- CSS
-- Javascript
+- HTML <br>
+- CSS <br>
+- Javascript <br>
 
 <h3> Proyects </h3>
 -
