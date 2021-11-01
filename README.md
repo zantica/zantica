@@ -7,9 +7,9 @@
 - HTML <br>
 - CSS <br>
 - Javascript <br>
-- React js
-- Redux
-- Node js
-- Express
-- PostgreSQL
-- Sequelize
+- React js<br>
+- Redux<br>
+- Node js<br>
+- Express<br>
+- PostgreSQL<br>
+- Sequelize<br>
