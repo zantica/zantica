@@ -7,7 +7,7 @@ Como puedes contactarme? Enviame un mail a santicarrizo@live.com.ar
 <h2> Proyectos </h2>
 <hr>
 <h3> Doggyland </h3>
-  <img src="https://ibb.co/CbFfxLp" type="image" width="320" height="240">
+  <img src=https://ibb.co/CbFfxLp width="320" height="240" alt="MDN">
 
 <hr>
 
