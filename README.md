@@ -4,6 +4,9 @@ Soy desarrollador fullstack en el stack de PERN, enfocado en el frontend con tec
 
 Como puedes contactarme? Enviame un mail a santicarrizo@live.com.ar
 
+PROYECTOS
+<hr>
+
 <h2> Skills </h2>
 - HTML <br>
 - CSS <br>
