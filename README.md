@@ -5,14 +5,14 @@ Soy desarrollador fullstack en el stack de PERN, enfocado en el frontend con tec
 Como puedes contactarme? Enviame un mail a santicarrizo@live.com.ar
 
 <h2> Proyectos </h2>
-<hr>
+
 <h3> Doggyland </h3>
 <h3> Weather App </h3>
 
 <hr>
 
 <h2> Habilidades </h2>
-<hr>
+
 - HTML <br>
 - CSS <br>
 - Javascript <br>
