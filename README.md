@@ -16,10 +16,10 @@ https://www.linkedin.com/in/santiago-carrizo/
 <div display="flex" flex-direction="row">
 <img src="https://i.ytimg.com/vi/d0XD09FB83w/maxresdefault.jpg" height="150px" />
   <img src="https://i.ibb.co/wgsjCys/d1.jpg" height="150px" />
-  <img src="https://i.ibb.co/rZDyDpL/d2.jpg" height="150px" /><img src="https://i.ytimg.com/vi/d0XD09FB83w/maxresdefault.jpg" height="150px" />
-  <img src="https://i.ibb.co/TMbK0xF/d3.jpg" height="150px" /><img src="https://i.ytimg.com/vi/d0XD09FB83w/maxresdefault.jpg" height="150px" />
-  <img src="https://i.ibb.co/ft7jnM3/d4.jpg" height="150px" /><img src="https://i.ytimg.com/vi/d0XD09FB83w/maxresdefault.jpg" height="150px" />
-  <img src="https://i.ibb.co/tZp3b7w/d5.jpg" height="150px" /><img src="https://i.ytimg.com/vi/d0XD09FB83w/maxresdefault.jpg" height="150px" />
+  <img src="https://i.ibb.co/rZDyDpL/d2.jpg" height="150px" />
+  <img src="https://i.ibb.co/TMbK0xF/d3.jpg" height="150px" />
+  <img src="https://i.ibb.co/ft7jnM3/d4.jpg" height="150px" />
+  <img src="https://i.ibb.co/tZp3b7w/d5.jpg" height="150px" />
  
 </div>
 
