@@ -24,7 +24,7 @@ https://www.linkedin.com/in/santiago-carrizo/
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" height="50px"/><br>
 <img src="https://cdn.pixabay.com/photo/2015/04/23/17/41/node-js-736399_1280.png" height="50px"/><br>
 <img src="https://e7.pngegg.com/pngimages/738/738/png-clipart-postgresql-database-logo-application-software-computer-software-mysql-logo-blue-text.png" height="50px"/><br>
-<img src="http://assets.stickpng.com/images/58482ee4cef1014c0b5e4a75.png" height="50px"/><br>
+<img src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-icon.svg" height="50px"/><br>
 <img src="https://cdn.pixabay.com/photo/2015/04/23/17/41/node-js-736399_1280.png" height="50px"/><br>
 <img src="https://cdn.pixabay.com/photo/2015/04/23/17/41/node-js-736399_1280.png" height="50px"/><br>
 - Express<br>
