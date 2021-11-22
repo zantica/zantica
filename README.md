@@ -17,17 +17,14 @@ https://www.linkedin.com/in/santiago-carrizo/
 
 <h2> Habilidades </h2>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/640px-HTML5_logo_and_wordmark.svg.png" height="50px"/> <br>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" height="50px"/><br>
-<img src="https://ayudawp.com/wp-content/uploads/2017/01/javascript-logo-escudo.png" height="50px"/><br>
-<img src="https://banner2.cleanpng.com/20180410/dbq/kisspng-react-javascript-responsive-web-design-github-angu-github-5accac24ced243.4761515415233628528472.jpg" height="50px"/><br>
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" height="50px"/><br>
-<img src="https://cdn.pixabay.com/photo/2015/04/23/17/41/node-js-736399_1280.png" height="50px"/><br>
-<img src="https://e7.pngegg.com/pngimages/738/738/png-clipart-postgresql-database-logo-application-software-computer-software-mysql-logo-blue-text.png" height="50px"/><br>
-<img src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-icon.svg" height="50px"/><br>
-<img src="https://cdn.pixabay.com/photo/2015/04/23/17/41/node-js-736399_1280.png" height="50px"/><br>
-<img src="https://cdn.pixabay.com/photo/2015/04/23/17/41/node-js-736399_1280.png" height="50px"/><br>
-- Express<br>
-- PostgreSQL<br>
-- Sequelize<br>
+<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" height="50px"/> 
+<img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" height="50px"/>
+<img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" height="50px"/>
+<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" height="50px"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" height="50px"/>
+<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" height="50px"/>
+<img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-vertical.svg" height="50px"/>
+<img src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-icon.svg" height="50px"/>
+<img src="https://cdn.pixabay.com/photo/2015/04/23/17/41/node-js-736399_1280.png" height="50px"/>
+<img src="https://cdn.pixabay.com/photo/2015/04/23/17/41/node-js-736399_1280.png" height="50px"/>
 <hr>
