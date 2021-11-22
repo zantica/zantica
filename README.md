@@ -17,7 +17,7 @@ https://www.linkedin.com/in/santiago-carrizo/
 <hr>
 
 <h2> Habilidades </h2>
-
+<div display="flex" flex-direction="row">
 <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" height="50px"/> 
 <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" height="50px"/>
 <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" height="50px"/>
@@ -28,4 +28,5 @@ https://www.linkedin.com/in/santiago-carrizo/
 <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" height="50px" />
 <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-vertical.svg" height="50px"/>
 <img src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-icon.svg" height="50px"/>
+  </div>
 <hr>
