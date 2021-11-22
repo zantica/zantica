@@ -13,11 +13,22 @@ https://www.linkedin.com/in/santiago-carrizo/
 <h2> Proyectos </h2>
 
 <h3> Doggyland </h3>
+<div display="flex" flex-direction="row">
 <img src="https://i.ytimg.com/vi/d0XD09FB83w/maxresdefault.jpg" height="150px" />
+  <img src="https://i.ibb.co/wgsjCys/d1.jpg" height="150px" />
+  <img src="https://i.ibb.co/rZDyDpL/d2.jpg" height="150px" /><img src="https://i.ytimg.com/vi/d0XD09FB83w/maxresdefault.jpg" height="150px" />
+  <img src="https://i.ibb.co/TMbK0xF/d3.jpg" height="150px" /><img src="https://i.ytimg.com/vi/d0XD09FB83w/maxresdefault.jpg" height="150px" />
+  <img src="https://i.ibb.co/ft7jnM3/d4.jpg" height="150px" /><img src="https://i.ytimg.com/vi/d0XD09FB83w/maxresdefault.jpg" height="150px" />
+  <img src="https://i.ibb.co/tZp3b7w/d5.jpg" height="150px" /><img src="https://i.ytimg.com/vi/d0XD09FB83w/maxresdefault.jpg" height="150px" />
+ 
+</div>
+
 <h3> Weather App </h3>
-<img src="https://i.ibb.co/5h98TZp/w1.jpg" height="150px" />
-<img src="https://i.ibb.co/1qWCtkj/w2.jpg" height="150px" />
-<img src="https://i.ibb.co/LdSdb7G/w3.jpg" height="150px" />
+<div display="flex" flex-direction="row">
+  <img src="https://i.ibb.co/5h98TZp/w1.jpg" height="150px" />
+  <img src="https://i.ibb.co/1qWCtkj/w2.jpg" height="150px" />
+  <img src="https://i.ibb.co/LdSdb7G/w3.jpg" height="150px" />
+</div>
 <hr>
 
 <h2> Habilidades </h2>
