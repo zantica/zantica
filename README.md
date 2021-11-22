@@ -2,7 +2,8 @@
 <br>
 
 <h1>Bienvenidos! Este es mi perfil</h1>
-Soy desarrollador fullstack en el stack de PERN, enfocado en el frontend con tecnologias como React-Redux, siendo fullstack tengo conocimientos de tecnologias tales como PostgreSQL, Express, React js y Node js, me encuentro desarrollando una idea propia que tengo en mente desde hace tiempo.
+Soy desarrollador fullstack Javascript en el stack de PERN, enfocado en el frontend con tecnologias como React-Redux, siendo fullstack tengo conocimientos de tecnologias tales como PostgreSQL, Express, React js y Node js, me encuentro desarrollando una idea propia que tengo en mente desde hace tiempo.
+
 
 Estos son mis canales de contacto, enviame un mensaje! <br>
 <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="25px" margin="5px"/>
