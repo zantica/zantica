@@ -41,7 +41,7 @@ https://www.linkedin.com/in/santiago-carrizo/
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" height="50px"/>
 <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" height="50px"/>
 <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" height="50px" />
-<img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-vertical.svg" height="50px"/>
+<img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" height="50px"/>
 <img src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-icon.svg" height="50px"/>
   </div>
 <hr>
