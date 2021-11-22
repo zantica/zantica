@@ -6,6 +6,7 @@ Soy desarrollador fullstack en el stack de PERN, enfocado en el frontend con tec
 
 Estos son mis canales de contacto, enviame un mensaje! <br>
 📩 santicarrizo@live.com.ar <br>
+<input type="submit" value="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" />
 <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" height="20px" />
 https://www.linkedin.com/in/santiago-carrizo/
 
