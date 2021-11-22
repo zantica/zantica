@@ -1,5 +1,6 @@
 <img src="https://c.tenor.com/mGgWY8RkgYMAAAAC/hello-world.gif"/>
-https://c.tenor.com/mGgWY8RkgYMAAAAC/hello-world.gif
+<br>
+
 <h1>Bienvenidos! Este es mi perfil</h1>
 Soy desarrollador fullstack en el stack de PERN, enfocado en el frontend con tecnologias como React-Redux, siendo fullstack tengo conocimientos de tecnologias tales como PostgreSQL, Express, React js y Node js, me encuentro desarrollando una idea propia que tengo en mente desde hace tiempo.
 
