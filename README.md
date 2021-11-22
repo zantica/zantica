@@ -2,7 +2,9 @@
 <h1>Bienvenidos! Este es mi perfil</h1>
 Soy desarrollador fullstack en el stack de PERN, enfocado en el frontend con tecnologias como React-Redux, siendo fullstack tengo conocimientos de tecnologias tales como PostgreSQL, Express, React js y Node js, me encuentro desarrollando una idea propia que tengo en mente desde hace tiempo.
 
-Como puedes contactarme? Enviame un mail a santicarrizo@live.com.ar
+Estos son mis canales de contacto, enviame un mensaje!
+santicarrizo@live.com.ar
+https://www.linkedin.com/in/santiago-carrizo/
 
 <h2> Proyectos </h2>
 
