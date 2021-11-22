@@ -18,7 +18,8 @@ https://www.linkedin.com/in/santiago-carrizo/
 <h2> Habilidades </h2>
 
 - HTML <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/640px-HTML5_logo_and_wordmark.svg.png" height="50px"/> <br>
-- CSS <br>
+- CSS <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" height="50px"/><br>
+- <img src="https://ayudawp.com/wp-content/uploads/2017/01/javascript-logo-escudo.png" height="50px"/><br>
 - Javascript <br>
 - jQuery <br>
 - React js<br>
