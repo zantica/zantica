@@ -44,5 +44,7 @@ https://www.linkedin.com/in/santiago-carrizo/
 <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" height="50px" />
 <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" height="50px"/>
 <img src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-icon.svg" height="50px"/>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="50px"/>
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="50px"/>
   </div>
 <hr>
