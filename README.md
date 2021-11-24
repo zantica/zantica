@@ -2,7 +2,7 @@
 <br>
 
 <h1>Bienvenidos! Este es mi perfil</h1>
-Soy desarrollador fullstack Javascript en el stack de PERN, enfocado en el frontend con tecnologias como React-Redux, siendo fullstack tengo conocimientos de tecnologias tales como PostgreSQL, Express, React js y Node js, me encuentro desarrollando una idea propia que tengo en mente desde hace tiempo.
+Soy desarrollador fullstack Javascript en el stack de PERN, enfocado en el frontend con tecnologias como React-Redux, siendo fullstack tengo conocimientos de tecnologias tales como PostgreSQL, Express, React js y Node js, me encuentro desarrollando mis habilidades realizando proyectos. Actualmente vivo en Argentina, pero estoy abierto a relocalizarme en cualquier parte del mundo.
 
 
 Estos son mis canales de contacto, enviame un mensaje! <br>
