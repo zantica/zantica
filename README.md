@@ -1,7 +1,6 @@
 <img src="https://c.tenor.com/mGgWY8RkgYMAAAAC/hello-world.gif"/>
 <br>
 
-<h1>Bienvenidos! Este es mi perfil</h1>
 Soy un desarrollador fullstack especializado en el ecosistema de tecnologías PERN (PostgreSQL, Express, React js y Node js), con un enfoque particular en el desarrollo frontend utilizando herramientas como React y Redux. Mi experiencia abarca tanto el diseño y desarrollo de interfaces de usuario atractivas y funcionales, como la implementación de robustos componentes y lógica backend.
 
 Además de mis habilidades en frontend, cuento con un sólido conocimiento de las tecnologías que respaldan la arquitectura PERN. Mi experiencia en PostgreSQL y Express me permite construir bases de datos eficientes y desarrollar API backend de alto rendimiento.
