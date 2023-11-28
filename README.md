@@ -11,11 +11,10 @@
 <img src="https://camo.githubusercontent.com/5ffd853b0824728d0a8ce1f5dd3634891bb73fe5c560b423eb45c0e34be4581c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656475782d3736344142433f7374796c653d666c61742d737175617265266c6f676f3d7265647578266c6f676f436f6c6f723d7768697465"/>
 <!-- <img src=""/> -->
 </p>
-Estos son mis canales de contacto, enviame un mensaje! <br>
-<img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="25px" margin="5px"/>
-santicarrizo@live.com.ar <br>
-<img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" height="25px" margin="5px" />
-https://www.linkedin.com/in/santiago-carrizo/
+You can reach me in
+<img src="https://camo.githubusercontent.com/a493f6833f99fb3c85788d6d9305e6b7a42b838e5ee5d138fd9a8214a7e77472/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="LinkedIn"/>
+<!-- <img src="" alt=""/> -->
+<img src="https://camo.githubusercontent.com/297212f5cfd71f14f1a774a22bfd24b24bfa996aa72f4d941f790c8606ca8f0d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d2532333132313030452e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d476974687562266c6f676f436f6c6f723d7768697465" alt="Github"/>
 
 <h2> Proyectos </h2>
 
