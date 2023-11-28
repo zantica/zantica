@@ -1,13 +1,6 @@
-<img src="https://c.tenor.com/mGgWY8RkgYMAAAAC/hello-world.gif"/>
-<br>
+<b>Things i code with</b>
 
-Soy un desarrollador fullstack especializado en el ecosistema de tecnologías PERN (PostgreSQL, Express, React js y Node js), con un enfoque particular en el desarrollo frontend utilizando herramientas como React y Redux. Mi experiencia abarca tanto el diseño y desarrollo de interfaces de usuario atractivas y funcionales, como la implementación de robustos componentes y lógica backend.
-
-Además de mis habilidades en frontend, cuento con un sólido conocimiento de las tecnologías que respaldan la arquitectura PERN. Mi experiencia en PostgreSQL y Express me permite construir bases de datos eficientes y desarrollar API backend de alto rendimiento.
-
-En mi búsqueda constante por mejorar, estoy comprometido con la realización de diversos proyectos que me permiten seguir expandiendo mis habilidades y conocimientos. Desde mi ubicación actual en Argentina, aspiro a llevar mis habilidades a cualquier rincón del mundo y estoy dispuesto a considerar oportunidades de relocalización que me permitan crecer aún más en el campo del desarrollo web.
-<br>
-
+<img src="https://camo.githubusercontent.com/533da8800843b57b91a3227ce7d151ca865a0eeaae675715e209c0092314fa96/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d3435623864383f7374796c653d666c61742d737175617265266c6f676f3d7265616374266c6f676f436f6c6f723d7768697465"/>
 Estos son mis canales de contacto, enviame un mensaje! <br>
 <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="25px" margin="5px"/>
 santicarrizo@live.com.ar <br>
