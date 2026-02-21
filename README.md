@@ -11,8 +11,3 @@ Soy desarrollador de software y me gusta construir cosas bien pensadas, simples 
 - Godot Engine · GDScript  
 
 ---
-
-### 📍 Un poco sobre mí
-
-Vivo en **Barcelona** 🇪🇸, vengo de **Argentina** 🇦🇷 y sigo aprendiendo todos los días.  
-Me gusta escribir código claro, colaborar en equipo y seguir mejorando lo que hago.
